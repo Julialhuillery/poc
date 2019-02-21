@@ -1,0 +1,5 @@
+{%- for item in site.data.social -%}
+  <a href = '{{ item.url }}' target = '_blank' rel = 'noopener' class = 'social_item {{ item.name }}'>
+    <img src = '/assets/icons/{{ item.name }}.svg' alt = 'icon' />
+  </a>
+{%- endfor -%}

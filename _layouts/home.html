@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section class = 'wrap_min mt-1 mb-2'>
+  <div class = 'grid-2'>
+  {% for item in site.data.featured_categories %}
+    <a class = 'tile'  href = '/category/{{ item.category | slugify | downcase }}/'>
+      <img src = '/assets/images/{{ item.thumbnail }}' class = 'tile_image'>
+      <div class = 'tile_desc'>
+        <h3 class = 'tile_title'>{{ item.category }}</h3>
+        <p class = 'tile_summary'>{{ item.headline }}</p>
+      </div>
+    </a>
+  {% endfor %}
+  </div>
+  <!-- <div class = 'grid-2'>
+  {% for my_page in site.pages %}  
+    {% if my_page.title and my_page.autogen == nil and my_page.autopage != nil %}
+      <a class = 'tile'  href = '{{ my_page.url }}'>
+        <img src = '/assets/images/thumbnail.svg' class = 'tile_image'>
+        <div class = 'tile_desc'>
+          <h3 class = 'tile_title'>{{ my_page.title | replace: '-', ' '  }}</h3>
+          <p class = 'tile_summary'>Super brief headline about the category</p>
+        </div>
+      </a>  
+    {% endif %}
+  {% endfor %}
+  </div> -->
+  {{ content }}
+</section>
