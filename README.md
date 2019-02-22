@@ -13,7 +13,17 @@ categories:
 ```
 
 ## Choose Categories to Highlight
-Edit the **_data/highlights.yml**. These will show on home page
+Edit the **_data/featured_categories.yml**. These will show on home page
+```yaml
+...
+- category: North America
+  headline: Super brief headline about the category
+  thumbnail: thumbnail.svg # category featured image
+- category: Asia
+  headline: Super brief headline about the category
+  thumbnail: thumbnail.svg # category featured image
+...
+```
 
 ## Add Images
 Store your images inside **assets/images** directory. To include the image in  your markdown file link it as follows:
