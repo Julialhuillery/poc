@@ -12,7 +12,7 @@ categories:
 ---
 ```
 
-## Choose Categories to Highlight
+## Choose Categories to show
 Edit the **_data/featured_categories.yml**. These will show on home page
 ```yaml
 ...
