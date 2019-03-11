@@ -85,7 +85,7 @@ defaults:
       path: "_docs"
       type: "docs"
     values:
-      layout: "tour"
+      layout: "page"
       author: "John Doe"
       permalink: /docs/:title/
   
