@@ -32,6 +32,14 @@ main {
       line-height: inherit;
     }
   }
+  a {
+    text-decoration: underline;
+    transition: opacity 0.3s ease-out;
+    &:hover {
+      opacity: 0.8;
+      text-decoration: underline;
+    }
+  }
 }
 a{
   color: inherit;
