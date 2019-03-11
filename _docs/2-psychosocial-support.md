@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /pyschosocial-support-in-epidemics/
 categories:
   - North America
   - Europe

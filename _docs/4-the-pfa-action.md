@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: "/the-pfa-action/"
 categories:
 - Violence
 - Latin America

@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /working-with-communities-in-epidemics/
 categories:
   - Africa
   - Asia
