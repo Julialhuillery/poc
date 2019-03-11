@@ -8,7 +8,7 @@ categories:
 
 # Psychosocial support interventions
 
-[Psychosocial support activities](2-psychosocial-support.md) can be integrated into other epidemic response activities or be implemented as stand-alone psychosocial support activities. Given the impact that fear, grief, shame and isolation can have on all aspects of the response, especially communication and community engagement, it is recommended that psychosocial support be integrated into all activities and all volunteers and staff are trained in psychological first aid (PFA).
+[Psychosocial support activities](/pyschosocial-support-in-epidemics/) can be integrated into other epidemic response activities or be implemented as stand-alone psychosocial support activities. Given the impact that fear, grief, shame and isolation can have on all aspects of the response, especially communication and community engagement, it is recommended that psychosocial support be integrated into all activities and all volunteers and staff are trained in psychological first aid (PFA).
 
 Depending on the type of disease and the scope of the outbreak, there may be a need for stand-alone psychosocial support activities. Examples of the different types of activities are included below:
 
