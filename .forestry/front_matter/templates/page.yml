@@ -1,0 +1,14 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Give your page a title
+  config:
+    required: true
+- type: tag_list
+  label: Categories
+  name: categories
+  description: Categories for your page
