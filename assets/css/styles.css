@@ -479,6 +479,14 @@ main li p {
   padding: 0;
   line-height: inherit;
 }
+main a {
+  text-decoration: underline;
+  transition: opacity 0.3s ease-out;
+}
+main a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
 
 a {
   color: inherit;
