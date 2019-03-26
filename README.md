@@ -31,3 +31,6 @@ Store your images inside **assets/images** directory. To include the image in  y
 ```markdown
 ![alt description](/assets/images/finame.extension)
 ```
+
+## Add pdfs
+To add the actual files, add them in **assets/pdfs** directory/folder.
