@@ -5,8 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _data
-  label: Site Info
+  path: _posts
+  label: Blog
+  create: all
+  match: "**/*"
+- type: directory
+  path: _documents
+  label: Documents
   create: all
   match: "**/*"
 - type: directory
@@ -15,13 +20,10 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _documents
-  label: Documents
+  path: _data
+  label: Site Info
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
