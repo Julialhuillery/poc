@@ -3,6 +3,9 @@ title: NS community health (non-clinical work) programme staff (non-emergency) (
 categories:
 - disasters
 - cyclone
+pdf: 
+  name: cyclone-hurricane-typhoon
+  url: cyclone-hurricane-typhoon.pdf
 
 ---
 **Cyclone / Hurricane/ Typhoon**
