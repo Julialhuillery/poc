@@ -989,7 +989,7 @@ th, thead {
 
 .tile {
   min-height: 40vh;
-  background: #eaeaea;
+  background: #fff;
   background-size: cover;
   filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
   -webkit-filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
