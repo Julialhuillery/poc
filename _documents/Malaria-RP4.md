@@ -1,7 +1,7 @@
 ---
 categories:
-  - North America
-  - Europe
+  - diseases
+  - malaria
 ---
 Disease : Malaria
 

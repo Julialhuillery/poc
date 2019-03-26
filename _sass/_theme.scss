@@ -145,8 +145,10 @@ table {
 
 .logo {
 	max-width: 150px;
+	display: grid;
+	align-items: center;
 	&, img {
-		height: 30px;
+		height: 40px;
 	}
 }
 

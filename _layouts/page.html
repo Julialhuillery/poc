@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class = 'wrap_min mt-1 mb-2'>
-  {{ content }}
+  <div class = 'content'>
+    {{ content }}
+  </div>
   {% include share.html %}
   {% assign categories = page.categories %}
   {% for category in categories %}

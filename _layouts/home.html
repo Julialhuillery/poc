@@ -4,11 +4,11 @@ layout: default
 <section class = 'wrap_min mt-1 mb-2'>
   <div class = 'grid-2'>
   {% for item in site.data.featured_categories %}
-    <a class = 'tile'  href = '/category/{{ item.category | slugify | downcase }}/'>
-      <img src = '/assets/images/{{ item.thumbnail }}' class = 'tile_image'>
+    <a class = 'tile'  href = '/category/{{ item.category | slugify | downcase }}/' style = 'background-image: url(/assets/images/{{ item.thumbnail }})'>
+      <!-- <img src = '/assets/images/{{ item.thumbnail }}' class = 'tile_image'> -->
       <div class = 'tile_desc'>
         <h3 class = 'tile_title'>{{ item.category }}</h3>
-        <p class = 'tile_summary'>{{ item.headline }}</p>
+        <!-- <p class = 'tile_summary'>{{ item.headline }}</p> -->
       </div>
     </a>
   {% endfor %}

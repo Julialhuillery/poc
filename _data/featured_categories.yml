@@ -1,12 +1,12 @@
-- category: Africa
-  headline: Super brief headline about the category
-  thumbnail: thumbnail.svg # category featured image
-- category: North America
-  headline: Super brief headline about the category
-  thumbnail: thumbnail.svg # category featured image
-- category: Asia
-  headline: Super brief headline about the category
-  thumbnail: thumbnail.svg # category featured image
-- category: Europe
-  headline: Super brief headline about the category
-  thumbnail: thumbnail.svg # category featured image
+- category: Diseases
+  # headline: Super brief headline about the category
+  thumbnail: diseases.jpg
+- category: Disasters
+  # headline: Super brief headline about the category
+  thumbnail: disasters.jpg
+# - category: Malaria
+  # headline: Super brief headline about the category
+  # thumbnail: malaria.jpg
+# - category: cyclone
+  # headline: Super brief headline about the category
+  # thumbnail: typhoon.jpg

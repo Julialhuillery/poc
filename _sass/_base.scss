@@ -32,14 +32,6 @@ main {
       line-height: inherit;
     }
   }
-  a {
-    text-decoration: underline;
-    transition: opacity 0.3s ease-out;
-    &:hover {
-      opacity: 0.8;
-      text-decoration: underline;
-    }
-  }
 }
 a{
   color: inherit;
@@ -97,8 +89,14 @@ nav {
 .item, tr {
   @extend %item;
 }
+.item {
+  display: block;
+}
 thead tr{
   padding: 0;
+}
+tr, td {
+  cursor: pointer;
 }
 td,th {
   text-align: left;
@@ -112,4 +110,12 @@ th {
 }
 th, thead {
   background: $shade;
+}
+.content a {
+  text-decoration: underline;
+  transition: opacity 0.3s ease-out;
+  &:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+  }
 }

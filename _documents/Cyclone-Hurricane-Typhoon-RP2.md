@@ -1,7 +1,6 @@
 ---
 categories:
-  - North America
-  - Europe
+  - disasters
 ---
 
 **Cyclone / Hurricane/ Typhoon**

@@ -1,8 +1,8 @@
 ---
 categories:
-  - North America
-  - Europe
+  - disasters
 ---
+
 **Cyclone / Hurricane/ Typhoon**
 
 | Role profile 3a | Competencies | Gaps in competencies | Gaps in information they need |

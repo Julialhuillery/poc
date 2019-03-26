@@ -1,13 +1,13 @@
 ---
 categories:
-  - North America
-  - Europe
+  - diseases
+  - malaria
 ---
 Disease : Malaria
 
-| Role profile 7 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile 6 | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
-| **Primary /secondary health system strengthening (clinical profile)** | &nbsp; | &nbsp; |
+| **(P)NS planning for epidemic response (outbreak response)** | &nbsp; | &nbsp; | &nbsp; |
 
 | **Disease Tool 9.7 Malaria** |&nbsp;|
 | :--- | :--- |
@@ -23,21 +23,24 @@ Disease : Malaria
 | **How disease is spread (Modes of transmission)** | Vector Borne<br>● _Anopheles_ mosquito bite.<br>● The mosquitoes usually bite between sunset and sunrise during the night. |
 | **Incubation period** | Seven to 40 days. Antimalarial drugs taken for prophylaxis by travellers can delay the appearance of Malaria symptoms by weeks or months, long after the traveller has left the Malaria-endemic area. |
 | **Period of infectiousness** | Not directly transmitted person to person. Humans may infect mosquitoes if infectious parasites are in the blood This varies with parasite species and with response to treatment. |
-| **Clinical signs and symptoms** | ● Starts with several days of fever, possibly accompanied by nausea, rigors, vomiting and headache, back pain, chills and muscle pain<br>● In very severe cases, weakness, loss of consciousness, severe anaemia, acute respiratory and renal failure.<br>● Children with severe Malaria frequently develop one or more of the following symptoms: severe anaemia, respiratory distress in relation to metabolic acidosis, or cerebral Malaria. In adults, multi-organ involvement is also frequent. |
-| **Other diseases with similar clinical signs and symptoms** | Dengue fever, Zika virus, Chikungunya, Pneumonia, Influenza, Trypanosomiasis and other infections. |
-| **Diagnosis** | ● Microscopy<br>● Rapid diagnostic tests<br>● Nucleic acid amplification-based diagnostics. |
 | **Community case definition** | A fever that goes up and down, with spells of extreme heat and shivering.<br><br>Any person with fever in a malaria endemic area.<br>Any under five child who has an illness with high fever and a danger sign\*<br>(\*Danger signs include lethargy, unconsciousness, vomits everything, convulsions, and in children less than 5, unable to drink or breast-feed) |
-| **Clinical management (vaccine or treatment)** | ● _Artemisinin_-based combination therapies (ACTs) for the treatment of uncomplicated Malaria caused by the _P. falciparum_ parasite.<br>● _P. vivax_ infections should be treated with an ACT or chloroquine in areas without _chloroquine_-resistant _P. vivax_. In areas where chloroquine-resistant _P. vivax_ has been identified, infections should be treated with an ACT, preferably one in which the partner medicine has a long half-life.<br>● To prevent relapses, _primaquine_ should be added to the treatment<br>● Severe Malaria should be treated with injectable _artesunate_ (intramuscular or intravenous) for at least 24 hours and followed by a complete three-day course of an ACT once the patient can tolerate oral medicines. When injectable treatment cannot be given, children under six years of age with severe Malaria should receive a pre-referral treatment with rectal _artesunate_ before being referred immediately to a healthcare facility where the full level of care can be provided. |
-| **Immunity** | ● An immune response has occurred following natural infection, however complete protective immunity does not develop, because repeated infections occur in individuals living in endemic areas. |
-| Community-level disease tools | [CBHFA module](https://www.ifrc.org/en/what-we-do/health/cbhfa/toolkit/)<br><br>ECV disase tools (all relating to malaria) |
+| **Community-level disease tools** | [CBHFA module](https://www.ifrc.org/en/what-we-do/health/cbhfa/toolkit/)<br><br>ECV disase tools (all relating to malaria) |
 
 **Which interventions are most effective for prevention and control of malaria?** 
 
 | **Activity ** | **Evidence of effectiveness** |&nbsp;|&nbsp;|&nbsp;|
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |:--- |
 |&nbsp;| **High** | **Moderate** | **Low** | **No evidence** |
 | (Referral for) Early and effective treatment (aligned with national anti-malarial drug policy) | ✔ | &nbsp; | &nbsp; | &nbsp; |
+| Use of insecticide-treated bed nets(coverage must be \> 80% to be effective) | ✔ | &nbsp; | &nbsp; | &nbsp; |
+| Use of insecticide-treated curtains | ✔ | &nbsp; | &nbsp; | &nbsp; |
+| Indoor residual spraying | ✔ | &nbsp; | &nbsp; | &nbsp; |
 | (Referral to) Intermittent prevention therapy (IPT) – infants and pregnant women | ✔ | &nbsp; | &nbsp; | &nbsp; |
+| Social mobilisation and health promotion | ✔ | &nbsp; | &nbsp; | &nbsp; |
+| Larvicide | &nbsp; | &nbsp; | ✔ | &nbsp; |
+| Ultra-low volume aerosol spraying and fogging | &nbsp; | &nbsp; | &nbsp; | ✔ |
+| Scrub removal around houses/communities | &nbsp; | &nbsp; | &nbsp; | ✔ |
+| For Malaria vector _Anopheles arabiensis:_ Community application of &#39;DEET&#39; mosquito repellent to ankles and feet | &nbsp; | ✔ | &nbsp; | &nbsp; |
 
 **Indicators and targets**
 
@@ -51,10 +54,18 @@ The indicators and targets below can be adapted to specific contexts and should 
 | Case-fatality rate in all Malaria cases | % |
 | Case-fatality rate in severe Malaria cases | \< 5% |
 | Malaria parasite prevalence: children six months to five years with Malaria infection | % |
+| Districts above epidemic threshold | # |
 | **Red Cross/Crescent activities** |
 | Number of volunteers trained | # |
 | Suspected cases detected by volunteers and referred to health facility | # |
 | Children \< 5 years of age presenting with Malaria receive effective anti-malarial treatment within 24 hours of symptom onset | 100% |
+| Insecticide-treated bed nets distributed to at-risk population | # or % |
+| Population/children \< 5 years/pregnant women who reported sleeping under a net the night before | % |
+| Households who have installed window and/or door screens | # |
+| Households that receive indoor residual spraying (specific time period) | # or % |
+| Community campaigns conducted to eliminate mosquito breeding sites | # |
+| Social and behaviour change communication (SBCC) plan developed | Plan available |
+| Functional feedback mechanism in place | # and type |
 | Households visited by volunteers (door-to-door visits) | # or % |
 | People who attended group session held by volunteers | # |
 | Radio spots/SMS messages/television spots broadcast | # |
@@ -67,7 +78,7 @@ The indicators and targets below can be adapted to specific contexts and should 
 | WASH | ✔ | &nbsp; | &nbsp; |
 | Food security | &nbsp; | &nbsp; | ✔ |
 | Nutrition | &nbsp; | &nbsp; | ✔ |
-| Shelter and settlements(including household items) | ✔ | &nbsp; | &nbsp; |
+| Shelter and settlements (including household items) | ✔ | &nbsp; | &nbsp; |
 | Psychosocial support &amp; Mental health | &nbsp; | &nbsp; | ✔ |
 | Restoring family links | &nbsp; | &nbsp; | ✔ |
 | Education | &nbsp; | &nbsp; | ✔ |

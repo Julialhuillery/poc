@@ -1,14 +1,14 @@
 
-title: POC
+title: "Epidemic Control for Response Managers"
 email: your-email@example.com
 description: ""
 url: "example.com" 
-twitter: MaasaiSafaris
+twitter: ""
 data-tweet-limit: 1
 collections:
-  docs:
+  documents:
     output: true
-    permalink: /docs/:path/
+    permalink: /documents/:path/
   pages:
     output: true
     permalink: /:path/
@@ -56,7 +56,7 @@ sass:
 
 include:
   - _pages
-  - _docs
+  - _documents
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -82,10 +82,10 @@ defaults:
       permalink: /:title/
   -
     scope:
-      path: "_docs"
-      type: "docs"
+      path: "_documents"
+      type: "documents"
     values:
       layout: "page"
       author: "John Doe"
-      permalink: /docs/:title/
+      permalink: /documents/:title/
   
