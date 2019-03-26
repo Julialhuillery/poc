@@ -64,7 +64,7 @@ button {
 
 b, em, strong {
   font-weight: 500;
-  color: #000;
+  color: inherit;
 }
 
 h1 {
@@ -131,7 +131,7 @@ blockquote {
   flex-flow: row wrap;
   align-items: center;
   padding: 1.2rem;
-  border-left: 10px solid #ccaa16;
+  border-left: 10px solid #f23745;
   background: rgba(0, 0, 0, 0.05);
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
@@ -568,7 +568,8 @@ th {
 }
 
 th, thead {
-  background: #ccaa16;
+  background: #f23745;
+  color: #fff;
 }
 
 .content a {
@@ -578,6 +579,10 @@ th, thead {
 .content a:hover {
   opacity: 0.8;
   text-decoration: underline;
+}
+
+acronym {
+  text-transform: uppercase;
 }
 
 .color {
@@ -617,8 +622,8 @@ th, thead {
 }
 
 .btn {
-  background-color: #ccaa16;
-  border: 1px solid #ccaa16;
+  background-color: #f23745;
+  border: 1px solid #f23745;
   display: inline-block;
   min-width: 8rem;
   color: #fff;
@@ -636,9 +641,9 @@ th, thead {
 }
 .btn:hover {
   opacity: 0.96;
-  color: #ccaa16;
+  color: #f23745;
   background: transparent;
-  border: 1px solid #ccaa16;
+  border: 1px solid #f23745;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.17);
 }
 
@@ -819,7 +824,7 @@ th, thead {
   font-size: 1.33rem;
 }
 .sidebar h2::after {
-  background: #ccaa16;
+  background: #f23745;
   content: '';
   position: absolute;
   bottom: 0;
