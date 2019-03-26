@@ -207,6 +207,16 @@ table {
 .logo {
   display: flex;
   align-items: center;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 768px) {
+  .logo {
+    flex-flow: row wrap;
+    margin-bottom: 3rem;
+  }
+  .logo span {
+    display: none;
+  }
 }
 .logo, .logo img {
   height: 40px;
@@ -502,11 +512,12 @@ h6 {
   padding: 0.3rem 0;
   font-weight: 500;
   line-height: 1.4;
-  color: #000;
+  color: inherit;
 }
 
 h1, h2 {
   font-weight: 400;
+  color: #f23745;
 }
 
 p {
@@ -571,7 +582,7 @@ th {
 }
 
 th, thead {
-  background: #f23745;
+  background: #242a33;
   color: #fff;
 }
 
@@ -780,8 +791,9 @@ acronym {
 }
 
 .footer {
-  background: #eaeaea;
+  background: #242a33;
   padding: 25px 0;
+  color: #fff;
 }
 .footer li {
   list-style-type: none;
@@ -795,7 +807,7 @@ acronym {
   align-items: center;
 }
 .footer a, .footer p {
-  color: #444;
+  color: #f7f7f7;
 }
 
 .social {
