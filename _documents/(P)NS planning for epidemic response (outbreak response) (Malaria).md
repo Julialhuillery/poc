@@ -1,4 +1,5 @@
 ---
+title: (P)NS planning for epidemic response (outbreak response) (Malaria)
 categories:
 - diseases
 - malaria

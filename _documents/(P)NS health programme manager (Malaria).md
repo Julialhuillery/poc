@@ -1,4 +1,5 @@
 ---
+title: (P)NS health programme manager (Malaria)
 categories:
 - diseases
 - malaria

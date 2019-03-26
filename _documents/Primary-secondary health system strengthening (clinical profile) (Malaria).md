@@ -1,4 +1,5 @@
 ---
+title: Primary-secondary health system strengthening (clinical profile) (Malaria)
 categories:
 - diseases
 - malaria

@@ -1,4 +1,5 @@
 ---
+title: (P)NS planning for epidemic response (outbreak response) (Cyclone-Hurricane-Typhoon)
 categories:
 - disasters
 - cyclone

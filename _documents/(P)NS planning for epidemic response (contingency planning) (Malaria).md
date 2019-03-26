@@ -1,4 +1,5 @@
 ---
+title: (P)NS planning for epidemic response (contingency planning) (Malaria)
 categories:
 - diseases
 - malaria
