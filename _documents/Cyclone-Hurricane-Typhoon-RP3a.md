@@ -1,8 +1,9 @@
 ---
 categories:
-  - disasters
----
+- disasters
+- cyclone
 
+---
 **Cyclone / Hurricane/ Typhoon**
 
 | Role profile 3a | Competencies | Gaps in competencies | Gaps in information they need |
@@ -27,4 +28,3 @@ categories:
 | &nbsp; | Coordination | ● Coordination between agencies and sectors including Health, Nutrition, WASH & Shelter<br>● Coordination between rescue services and health services (including level 1,2 and 3 facilities)<br>● Coordination of volunteers. |
 | **Disease Tools that may be relevant** | ● Diarrhoeal disease<br>● Malaria<br>● Dengue, Chikungunya, Zika <br>● Yellow fever<br>● ARIs<br>● Respiratory diseases | ● Hepatitis A<br>● Hepatitis E<br>● Typhoid fever<br>● Malnutrition<br>● Measles<br>● Meningococcal disease<br>● Vaccine-preventable<br>● Polio. |
 | **Other Movement tools that may be relevant** | - CBS<br>- ECV training manual<br>- CBHFA training manual<br>- ERUs (clinical and public health) - there is an annex for this<br>- | &nbsp; |
-
