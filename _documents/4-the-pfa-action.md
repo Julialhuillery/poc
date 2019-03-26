@@ -1,7 +1,5 @@
 ---
-categories:
-- Violence
-- Latin America
+categories: []
 
 ---
 # Table X: The PFA action principles of Look, Listen and Link
