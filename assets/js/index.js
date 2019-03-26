@@ -278,4 +278,35 @@ function smoothScroll(element, to, duration) {
   var date = new Date();
   var year = date.getFullYear();
   elem('.year').innerHTML = year;
-})()
+})();
+
+function wrapElement(el, wrap) {
+  let wrapper = document.createElement('div');
+  pushClass(wrapper, wrap);
+  el.parentNode.insertBefore(wrapper, el);
+  wrapper.appendChild(el);
+}
+
+(function ManageTiles() {
+  let tiles = elems('.tile_parent');
+  let modal = elem('.tile_host');
+
+  function populateModal(element) {
+    modal.appendChild(element);
+  }
+
+  function showModal(element) {
+    pushClass(modal, 'wrap_min');
+    populateModal(element);
+    wrapElement(modal, 'modal');
+  }
+
+  console.log(tiles);
+  tiles.forEach(function(tile) {
+    tile.addEventListener('click', function(event) {
+      event.preventDefault();
+      let child = this.nextElementSibling;
+      showModal(child);
+    });
+  });
+})();

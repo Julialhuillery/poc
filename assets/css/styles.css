@@ -996,20 +996,30 @@ th, thead {
   margin: 0;
   padding: 0;
   position: relative;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .tile:hover {
-  opacity: 0.3;
+  opacity: 0.7;
+  box-shadow: 0 0 7.5rem rgba(52, 90, 64, 0.17);
+}
+.tile_parent + .tile_child {
+  display: none;
+}
+.tile_host .tile_child {
+  min-height: 100vh;
+  padding: 3rem 0;
+  align-items: center;
 }
 .tile_desc {
   position: absolute;
   bottom: 0;
   left: 0;
   background: rgba(255, 255, 255, 0.84);
-  padding: 0.6rem 1.5rem;
+  padding: 0.2rem 1.5rem;
 }
 .tile_title {
   text-transform: uppercase;
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 300;
 }
 .tile_image {
@@ -1018,6 +1028,15 @@ th, thead {
 .tile_summary {
   padding: 0;
   font-size: 0.9rem;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.96);
 }
 
 .share {
