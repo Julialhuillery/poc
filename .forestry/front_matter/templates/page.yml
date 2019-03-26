@@ -12,3 +12,20 @@ fields:
   label: Categories
   name: categories
   description: Categories for your page
+- type: field_group
+  name: pdf
+  label: pdf download file
+  description: optional
+  fields:
+  - type: text
+    name: name
+    label: name
+    description: Name of the pdf
+    config:
+      required: false
+  - type: text
+    name: url
+    label: url
+    description: name of the pdf with .pdf extension e.g cyclone.pdf
+    config:
+      required: false
