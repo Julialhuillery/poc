@@ -1,8 +1,9 @@
 ---
 categories:
-  - disasters
----
+- disasters
+- cyclone
 
+---
 **Cyclone / Hurricane/ Typhoon**
 
 | Role profile 4 | Competencies | Gaps in competencies | Gaps in information they need |
