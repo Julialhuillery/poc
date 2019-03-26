@@ -1,12 +1,18 @@
-- category: Diseases
+- category_name: Diseases
+  title: Diseases
   headline: Super brief headline about the category
   thumbnail: diseases.jpg
-- category: Disasters
+  items:
+    - category_name: Malaria
+      title: Malaria
+      headline: Super brief headline about the category
+      thumbnail: malaria.jpg
+- category_name: Disasters
+  title: Disasters
   headline: Super brief headline about the category
   thumbnail: disasters.jpg
-- category: Malaria
-  headline: Super brief headline about the category
-  thumbnail: malaria.jpg
-- category: cyclone
-  headline: Super brief headline about the category
-  thumbnail: typhoon.jpg
+  items: 
+    - category_name: cyclone
+      title: cyclone/hurricane/typhoon
+      headline: Super brief headline about the category
+      thumbnail: typhoon.jpg

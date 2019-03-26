@@ -1,0 +1,5 @@
+<a class = 'tile {% if item.items %}tile_parent{% endif %}'  href = '/category/{{ item.category_name | slugify | downcase }}/' style = 'background-image: url(/assets/images/{{ item.thumbnail }})'>
+  <div class = 'tile_desc'>
+    <h3 class = 'tile_title'>{{ item.title }}</h3>
+  </div>
+</a>

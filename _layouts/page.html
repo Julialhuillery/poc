@@ -5,6 +5,7 @@ layout: default
   <div class = 'content'>
     {{ content }}
   </div>
+  <a href = '/assets/pdfs/{{ page.pdf.url }}' download = '{{ page.pdf.name | default: "sample.pdf"}}'  class = 'btn'>Download PDF</a>
   {% include share.html %}
   {% assign categories = page.categories %}
   {% for category in categories %}
