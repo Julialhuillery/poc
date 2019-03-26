@@ -110,6 +110,7 @@ th {
 }
 th, thead {
   background: $shade;
+  color: $light;
 }
 .content a {
   text-decoration: underline;
@@ -118,4 +119,8 @@ th, thead {
     opacity: 0.8;
     text-decoration: underline;
   }
+}
+
+acronym {
+  text-transform: uppercase;
 }
