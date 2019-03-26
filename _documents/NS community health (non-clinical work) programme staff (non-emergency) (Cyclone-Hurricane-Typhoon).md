@@ -1,6 +1,7 @@
 ---
 categories:
 - disasters
+- cyclone
 
 ---
 **Cyclone / Hurricane/ Typhoon**
