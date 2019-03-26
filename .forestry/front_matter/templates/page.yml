@@ -29,5 +29,3 @@ fields:
     description: name of the pdf with .pdf extension e.g cyclone.pdf
     config:
       required: false
-pages:
-- _documents/cyclone-idai.md
