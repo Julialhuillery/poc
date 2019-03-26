@@ -36,7 +36,6 @@
   src: local("Cookie-Regular"), url("/fonts/cookie-v10-latin-regular.woff2") format("woff2"), url("/fonts/cookie-v10-latin-regular.woff") format("woff");
 }
 .item, tr {
-  display: block;
   padding: 1rem;
   background: #eaeaea;
   transition: all 0.3s ease-in-out;
@@ -207,9 +206,11 @@ table {
 }
 .logo {
   max-width: 150px;
+  display: grid;
+  align-items: center;
 }
 .logo, .logo img {
-  height: 30px;
+  height: 40px;
 }
 
 .dropdown-menu {
@@ -479,14 +480,6 @@ main li p {
   padding: 0;
   line-height: inherit;
 }
-main a {
-  text-decoration: underline;
-  transition: opacity 0.3s ease-out;
-}
-main a:hover {
-  opacity: 0.8;
-  text-decoration: underline;
-}
 
 a {
   color: inherit;
@@ -549,8 +542,16 @@ nav ul {
   padding: 0;
 }
 
+.item {
+  display: block;
+}
+
 thead tr {
   padding: 0;
+}
+
+tr, td {
+  cursor: pointer;
 }
 
 td, th {
@@ -568,6 +569,15 @@ th {
 
 th, thead {
   background: #ccaa16;
+}
+
+.content a {
+  text-decoration: underline;
+  transition: opacity 0.3s ease-out;
+}
+.content a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
 }
 
 .color {
@@ -729,7 +739,7 @@ th, thead {
   z-index: 999;
   width: 100%;
   background: transparent;
-  padding: 1rem 1.6rem;
+  padding: 0.5rem 1.6rem;
   min-height: 3.3rem;
   background: #eaeaea;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.17);
@@ -978,28 +988,32 @@ th, thead {
 }
 
 .tile {
-  min-height: 25vh;
+  min-height: 40vh;
   background: #eaeaea;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  border-radius: 0.75rem;
-  margin: 1rem;
-  padding-bottom: 2rem;
+  background-size: cover;
+  filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
+  -webkit-filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.tile:hover {
+  opacity: 0.3;
 }
 .tile_desc {
-  transform: translateY(1rem);
-  padding-left: 1rem;
-  padding-top: 0.5rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.84);
+  padding: 0.6rem 1.5rem;
 }
 .tile_title {
   text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 300;
 }
 .tile_image {
   border-radius: 0.6rem;
-  transform: translate(-1.5rem, 1rem);
-  filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
-  -webkit-filter: drop-shadow(-25px 15px 15px rgba(52, 90, 64, 0.17));
 }
 .tile_summary {
   padding: 0;
