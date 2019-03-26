@@ -17,3 +17,7 @@ another disasster
 format with the tool below.
 
 upload images here 
+
+Toggle off to publish at the top
+
+you can also preview at the top 
