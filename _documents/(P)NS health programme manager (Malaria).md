@@ -3,6 +3,9 @@ title: (P)NS health programme manager (Malaria)
 categories:
 - diseases
 - malaria
+pdf:
+  name: file
+  url: file.pdf
 
 ---
 Disease : Malaria
