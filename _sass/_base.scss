@@ -50,10 +50,11 @@ h6 {
   padding: 0.3rem 0;
   font-weight: 500;
   line-height: 1.4;
-  color: $darker;
+  color: inherit;
 }
 h1, h2 {
   font-weight: 400;
+  color: $shade;
 }
 p {
   line-height: 1.6;
@@ -109,7 +110,7 @@ th {
   padding: 1rem 2rem;
 }
 th, thead {
-  background: $shade;
+  background: $dark;
   color: $light;
 }
 .content a {

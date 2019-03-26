@@ -180,8 +180,9 @@
   flex-direction: column;
 }
 .footer{
-  background: $dull;
+  background: $dark;
   padding: 25px 0;
+  color: $light;
   li{
     list-style-type: none;
   }
@@ -194,7 +195,7 @@
     }
   }
   a, p{
-    color: $pale;
+    color: $mute;
   }
 }
 .social {

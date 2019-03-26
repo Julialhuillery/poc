@@ -146,6 +146,14 @@ table {
 .logo {
 	display: flex;
 	align-items: center;
+	text-transform: uppercase;
+	@media screen and (max-width: 768px) {
+		flex-flow: row wrap;
+		margin-bottom: 3rem;
+		span {
+			display: none;
+		}
+	}
 	&, img {
 		height: 40px;
 	}
