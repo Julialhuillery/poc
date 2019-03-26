@@ -3,7 +3,9 @@ title: (P)NS health programme manager (Cyclone-Hurricane-Typhoon)
 categories:
 - disasters
 - cyclone
-
+pdf:
+  name:
+  url: 
 ---
 **Cyclone / Hurricane/ Typhoon**
 

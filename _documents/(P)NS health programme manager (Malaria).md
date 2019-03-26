@@ -6,7 +6,6 @@ categories:
 pdf:
   name: file
   url: file.pdf
-
 ---
 Disease : Malaria
 

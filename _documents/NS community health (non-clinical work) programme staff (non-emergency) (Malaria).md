@@ -3,7 +3,9 @@ title: NS community health (non-clinical work) programme staff (non-emergency) (
 categories:
 - diseases
 - malaria
-
+pdf:
+  name:
+  url: 
 ---
 Disease : Malaria
 

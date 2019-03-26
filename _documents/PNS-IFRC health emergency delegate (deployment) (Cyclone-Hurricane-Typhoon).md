@@ -3,7 +3,9 @@ title: PN-IFRC health emergency delegate (deployment) (Malaria)
 categories:
 - disasters
 - cyclone
-
+pdf:
+  name:
+  url: 
 ---
 **Cyclone / Hurricane/ Typhoon**
 

@@ -3,7 +3,9 @@ title: Primary-secondary health system strengthening (clinical profile) (Malaria
 categories:
 - diseases
 - malaria
-
+pdf:
+  name:
+  url: 
 ---
 Disease : Malaria
 

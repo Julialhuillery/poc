@@ -3,7 +3,9 @@ title: (P)NS planning for epidemic response (outbreak response) (Cyclone-Hurrica
 categories:
 - disasters
 - cyclone
-
+pdf:
+  name:
+  url: 
 ---
 **Cyclone / Hurricane/ Typhoon**
 

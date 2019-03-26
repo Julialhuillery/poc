@@ -3,7 +3,9 @@ title: Primary-secondary health system strengthening (clinical profile) (Cyclone
 categories:
 - disasters
 - cyclone
-
+pdf:
+  name:
+  url: 
 ---
 **Cyclone / Hurricane/ Typhoon**
 

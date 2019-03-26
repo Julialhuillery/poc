@@ -3,7 +3,9 @@ title: National Society emergency response staff (Malaria)
 categories:
 - diseases
 - malaria
-
+pdf:
+  name:
+  url: 
 ---
 Disease : Malaria
 

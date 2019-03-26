@@ -3,7 +3,9 @@ title: PN-IFRC health emergency delegate (deployment) (Malaria)
 categories:
 - diseases
 - malaria
-
+pdf:
+  name:
+  url: 
 ---
 Disease : Malaria
 
