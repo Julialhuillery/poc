@@ -4,8 +4,8 @@ categories:
 - disasters
 - cyclone
 pdf:
-  name: cyclone-hurricane-typhoon
-  url: cyclone-hurricane-typhoon.pdf
+  name: NS community health (non-clinical work) programme staff (non-emergency) (Cyclone-Hurricane-Typhoon)
+  url: NS community health (non-clinical work) programme staff (non-emergency) (Cyclone-Hurricane-Typhoon).pdf
 
 ---
 **Cyclone / Hurricane / Typhoon**
