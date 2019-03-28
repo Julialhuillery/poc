@@ -4,8 +4,8 @@ categories:
 - disasters
 - cyclone
 pdf:
-  name: 
-  url: 
+  name: (P)NS health programme manager (Cyclone-Hurricane-Typhoon)
+  url: (P)NS health programme manager (Cyclone-Hurricane-Typhoon).pdf
 
 ---
 Cyclone / Hurricane / Typhoon

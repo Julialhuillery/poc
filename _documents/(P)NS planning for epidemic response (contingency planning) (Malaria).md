@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name:
-  url: 
+  name: (P)NS planning for epidemic response (contingency planning) (Cyclone-Hurricane-Typhoon)
+  url: (P)NS planning for epidemic response (contingency planning) (Cyclone-Hurricane-Typhoon).pdf
 ---
 Disease : Malaria
 

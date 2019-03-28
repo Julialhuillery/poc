@@ -4,8 +4,8 @@ categories:
 - disasters
 - cyclone
 pdf:
-  name:
-  url: 
+  name: Primary-secondary health system strengthening (clinical profile) (Cyclone-Hurricane-Typhoon)
+  url: Primary-secondary health system strengthening (clinical profile) (Cyclone-Hurricane-Typhoon).pdf
 ---
 **Cyclone / Hurricane/ Typhoon**
 

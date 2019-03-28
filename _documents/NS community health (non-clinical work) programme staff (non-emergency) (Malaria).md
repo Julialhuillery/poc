@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name:
-  url: 
+  name: NS community health (non-clinical work) programme staff (non-emergency) (Cyclone-Hurricane-Typhoon)
+  url: NS community health (non-clinical work) programme staff (non-emergency) (Cyclone-Hurricane-Typhoon).pdf
 ---
 Disease : Malaria
 

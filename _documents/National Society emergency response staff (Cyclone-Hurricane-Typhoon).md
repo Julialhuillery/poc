@@ -3,8 +3,8 @@ title: National Society emergency response staff (Cyclone-Hurricane-Typhoon)
 categories:
 - disasters
 pdf:
-  name:
-  url: 
+  name: National Society emergency response staff (Cyclone-Hurricane-Typhoon).pdf
+  url: National Society emergency response staff (Cyclone-Hurricane-Typhoon).pdf
 ---
 **Cyclone / Hurricane/ Typhoon**
 

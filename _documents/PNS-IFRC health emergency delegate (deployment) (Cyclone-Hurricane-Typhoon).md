@@ -4,8 +4,8 @@ categories:
 - disasters
 - cyclone
 pdf:
-  name: 
-  url: 
+  name: PN-IFRC health emergency delegate (deployment) (Cyplone-Hurricane-Typhoon)
+  url: PN-IFRC health emergency delegate (deployment) (Cyplone-Hurricane-Typhoon).pdf
 
 ---
 **Cyclone / Hurricane/ Typhoon**
