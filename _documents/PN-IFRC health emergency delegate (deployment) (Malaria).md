@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: 
-  url: 
+  name: PN-IFRC health emergency delegate (deployment) (Malaria)
+  url: PN-IFRC health emergency delegate (deployment) (Malaria).pdf
 
 ---
 **Disease : Malaria**

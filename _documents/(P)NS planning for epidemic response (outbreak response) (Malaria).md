@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: 
-  url: 
+  name: (P)NS planning for epidemic response (outbreak response) (Malaria)
+  url: (P)NS planning for epidemic response (outbreak response) (Malaria).pdf
 
 ---
 **Disease : Malaria**

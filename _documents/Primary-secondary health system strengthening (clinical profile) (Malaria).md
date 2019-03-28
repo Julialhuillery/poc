@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name:
-  url: 
+  name: Primary-secondary health system strengthening (clinical profile) (Malaria)
+  url: Primary-secondary health system strengthening (clinical profile) (Malaria).pdf
 ---
 Disease : Malaria
 

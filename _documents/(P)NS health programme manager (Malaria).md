@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: file
-  url: file.pdf
+  name: (P)NS health programme manager (Malaria)
+  url: (P)NS health programme manager (Malaria).pdf
 
 ---
 **Disease : Malaria**

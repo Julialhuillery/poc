@@ -4,8 +4,8 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: 
-  url: 
+  name: National Society emergency response staff (Malaria)
+  url: National Society emergency response staff (Malaria).pdf
 
 ---
 **Disease : Malaria**
