@@ -26,4 +26,4 @@ pdf:
 | &nbsp; | Respiratory illnesses and vaccine-preventable diseases | Significant population displacement and risk of overcrowded, communal emergency shelters |
 | &nbsp; | Disruption to normal health services | Destruction and damage to health facilities and stock, disrupting normal services and impacting NCD treatment, and maternal and child health services |
 | **Risk factors leading to an outbreak/epidemic** | ● Poor WASH conditions<br>● Displacement of affected populations, especially if prolonged<br>● Inadequate or crowded shelters<br>● Lack of access to steady, appropriate food supplies<br>● Lack of access to health care facilities | |
-| **Other Movement tools that may be relevant** | - CBS<br>- ECV training manual<br>- CBHFA training manual<br>- ERUs (clinical and public health) - there is an annex for this<br>- | |
+| **Other Movement tools that may be relevant** | - CBS<br>- ECV training manual<br>- CBHFA training manual<br>- ERUs (clinical and public health) - there is an annex for this<br> | |
