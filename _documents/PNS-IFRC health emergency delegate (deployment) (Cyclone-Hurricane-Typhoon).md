@@ -1,5 +1,5 @@
 ---
-title: PN-IFRC health emergency delegate (deployment) (Cyclone-Hurricane-Typhoon))
+title: PN-IFRC health emergency delegate (deployment) (Cyclone-Hurricane-Typhoon)
 categories:
 - disasters
 - cyclone
@@ -8,27 +8,28 @@ pdf:
   url: PN-IFRC health emergency delegate (deployment) (Cyplone-Hurricane-Typhoon).pdf
 
 ---
-**Cyclone / Hurricane/ Typhoon**
+**Cyclone / Hurricane / Typhoon**
 
 | Role profile 3a | Competencies | Gaps in competencies | Gaps in information they need |
 |:--|:--|:--|:--|
-| **PNS/IFRC health emergency delegate (deployment)** | ToT, general community approaches to health programming, specific response experience but not necessarily to this disease/ type of emergency / context | | |
+| **PNS/IFRC health emergency delegate (deployment)** | ToT, general community approaches to health programming, specific response experience but not necessarily to this disease / type of emergency / context | | |
 
 **Cyclone / Hurricane/ Typhoon**
 
 | **Key facts** | Cyclones (hurricanes and typhoons) are associated with damage to infrastructure from high winds and storm surges, and flooding. | |
 |:-----|:-----|:-----|
 | **Main health impacts** | Trauma (injury) is most likely during a cyclone/hurricane/typhoon, or in the immediate aftermath. In the days, weeks (and sometimes months) following a cyclone/hurricane, the main health concerns are: | |
-| &nbsp; | Health concern | Mechanism |
-| &nbsp; | Diarrhoeal diseases | Contamination of water supplies by flood water, damaged or destroyed sanitation facilities and poor hygiene practices. |
-| &nbsp; | Vector-borne diseases | Flooding or stagnant water can increase the risk of breeding sites for vectors. |
-| &nbsp; | Respiratory illnesses and vaccine preventable diseases | Significant population displacement and risk of overcrowded, communal emergency shelters. |
-| &nbsp; | Disruption to normal health services | Destruction and damage to health facilities and stock disrupt normal services impacting NCD treatment, and maternal and child health services. |
-| **Risk factors leading to an outbreak/ epidemic** | ● Poor WASH conditions<br>● Displacement of affected populations, especially if prolonged<br>● Inadequate or crowded shelter<br>● Lack of access to steady, appropriate food supplies<br>● Lack of access to health care facilities. | &nbsp; |
-| **Priority actions** | Critical steps | ● Ensure triage, treatment, referral and transport for injured and “near drowning” patients<br>● Identify key disease risk factors and implement prevention and preparedness<br>● Establish critical health services<br>● Identify and manage possible sources of toxic contamination |
-| &nbsp; | Surveillance | ● Activate disease early warning systems and community based surveillance<br>● Survey vectors and breeding sites with measures to reduce vector density. |
-| &nbsp; | Primary health care intervention | ● Continuity of health service delivery, including maternal and child health care, and NCDs treatment<br>● Specific primary care interventions for diarrhoeal diseases, respiratory tract infections, Hepatitis A, Typhoid, skin infections, snake and insect bites<br>● Treatment for “near drowning” and exposure<br>● Treatment for malaria, dengue and other vector-borne diseases<br>● Care of minor wounds and skin infections, including Tetanus immunization. |
-| &nbsp; | Community based action and social mobilisation | ● Implement SBCC interventions aimed at preventing water and vector-borne diseases<br>● Plan and implement emergency vaccination campaigns as needed<br>● Procedures in place to safely manage human and animal corpses<br>● Early detection, referral and treatment of all people with infectious disease symptoms, especially the most vulnerable<br>● Psychosocial support for community members, and staff and volunteers<br>● Prevention of WASH related diseases:<br>o Handwashing with soap<br>o Safe excreta disposal<br>o Safe drinking water<br>o Environmental Sanitation<br>o Food Safety. |
-| &nbsp; | Coordination | ● Coordination between agencies and sectors including Health, Nutrition, WASH & Shelter<br>● Coordination between rescue services and health services (including level 1,2 and 3 facilities)<br>● Coordination of volunteers. |
-| **Disease Tools that may be relevant** | ● Diarrhoeal disease<br>● Malaria<br>● Dengue, Chikungunya, Zika <br>● Yellow fever<br>● ARIs<br>● Respiratory diseases | ● Hepatitis A<br>● Hepatitis E<br>● Typhoid fever<br>● Malnutrition<br>● Measles<br>● Meningococcal disease<br>● Vaccine-preventable<br>● Polio. |
-| **Other Movement tools that may be relevant** | - CBS<br>- ECV training manual<br>- CBHFA training manual<br>- ERUs (clinical and public health) - there is an annex for this<br>- | &nbsp; |
+| &nbsp; | Health issues | **Mechanism** |
+| &nbsp; | Diarrhoeal diseases | Contamination of water supplies by flood water, damaged or destroyed sanitation facilities and poor hygiene practices |
+| &nbsp; | Vector-borne diseases | Flooding or stagnant water that increases the risk of breeding sites for vectors |
+| &nbsp; | Respiratory illnesses and vaccine-preventable diseases | Significant population displacement and risk of overcrowded, communal emergency shelters |
+| &nbsp; | Disruption to normal health services | Destruction and damage to health facilities and stock, disrupting normal services and impacting NCD treatment, and maternal and child health services |
+| **Risk factors leading to an outbreak/epidemic** | ● Poor WASH conditions<br>● Displacement of affected populations, especially if prolonged<br>● Inadequate or crowded shelters<br>● Lack of access to steady, appropriate food supplies<br>● Lack of access to health care facilities | &nbsp; |
+| **Priority actions** | Critical steps | ● Ensure triage, treatment, referral and transport for injured and “near drowning” patients.<br>● Identify key disease risk factors and implement prevention and preparedness.<br>● Establish critical health services.<br>● Identify and manage possible sources of toxic contamination. |
+| &nbsp; | Surveillance | ● Activate disease early warning systems and community-based surveillance.<br>● Survey vectors and breeding sites with measures to reduce vector density. |
+| &nbsp; | Primary health care intervention | ● Ensure continuity of health service delivery, including maternal and child health care, and NCDs treatment.<br>● Provide specific primary care interventions for diarrhoeal diseases, respiratory tract infections, Hepatitis A, typhoid, skin infections, and snake and insect bites.<br>● Provide treatment for “near drowning” and exposure.<br>● Provide treatment for malaria, dengue and other vector-borne diseases.<br>● Take care of minor wounds and skin infections, including tetanus immunisation. |
+| &nbsp; | Community-based action and social mobilisation | ● Implement SBCC interventions aimed at preventing water- and vector-borne diseases.<br>● Plan and implement emergency vaccination campaigns as needed.<br>● Put procedures in place to safely manage human and animal corpses.<br>● Ensure early detection, referral and treatment of all people with infectious disease symptoms, especially the most vulnerable.<br>● Psychosocial support for community members, staff and volunteers<br>● Prevention of WASH related diseases:<br>o Hand-washing with soap<br>o Safe excreta disposal<br>o Safe drinking water<br>o Environmental sanitation<br>o Food safety. |
+| &nbsp; | Coordination | ● Coordination between agencies and sectors including Health, Nutrition, WASH and Shelter<br>● Coordination between rescue services and health services (including levels 1, 2 and 3 facilities)<br>● Coordination of volunteers |
+| **Disease tools that may be relevant** | ● Diarrhoeal disease<br>● Malaria<br>● Dengue, Chikungunya, Zika <br>● Yellow fever<br>● ARIs<br>● Respiratory diseases | ● Hepatitis A<br>● Hepatitis E<br>● Typhoid fever<br>● Malnutrition<br>● Measles<br>● Meningococcal disease<br>● Vaccine-preventable disease<br>● Polio |
+| **Other movement tools that may be relevant** | - CBS<br>- ECV training manual<br>- CBHFA training manual<br>- ERUs (clinical and public health) - there is an annex for this<br> | &nbsp; |
+
