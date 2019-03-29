@@ -10,7 +10,7 @@ pdf:
 ---
 **Cyclone / Hurricane / Typhoon**
 
-| Role profile 3a | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 |:--|:--|:--|:--|
 | **PNS/IFRC health emergency delegate (deployment)** | ToT, general community approaches to health programming, specific response experience but not necessarily to this disease / type of emergency / context | | |
 

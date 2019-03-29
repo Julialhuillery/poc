@@ -10,7 +10,7 @@ pdf:
 ---
 **Disease : Malaria**
 
-| Role profile 2 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **NS community health (non-clinical work) programme staff (non-emergency)** | Training in community health approaches for long-term health programming, not specific to emergencies | Specific adaptations needed for health emergencies, exposure to response approaches, tools, needs outside of sudden-onset natural disasters. Technical responses per disease type, understanding of epidemic profiles for each type of disaster (support for planning programming/health response) | Understanding of health impacts and timeline of natural disasters, tools and approaches available. How to plan for health needs immediately after sudden-impact disaster |
 
