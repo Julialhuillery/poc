@@ -6,10 +6,11 @@ categories:
 pdf:
   name: Primary-secondary health system strengthening (clinical profile) (Malaria)
   url: Primary-secondary health system strengthening (clinical profile) (Malaria).pdf
+
 ---
 Disease : Malaria
 
-| Role profile 7 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **Primary /secondary health system strengthening (clinical profile)** | &nbsp; | &nbsp; |
 

@@ -10,7 +10,7 @@ pdf:
 ---
 **Cyclone / Hurricane / Typhoon**
 
-| Role profile 7 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **Primary /secondary health system strengthening (clinical profile)** | &nbsp; | &nbsp; | &nbsp; |
 
