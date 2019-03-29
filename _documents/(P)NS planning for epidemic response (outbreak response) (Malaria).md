@@ -4,13 +4,13 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: (P)NS planning for epidemic response (outbreak response) (Malaria)
-  url: (P)NS planning for epidemic response (outbreak response) (Malaria).pdf
+  name: "(P)NS planning for epidemic response (outbreak response) (Malaria)"
+  url: "(P)NS planning for epidemic response (outbreak response) (Malaria).pdf"
 
 ---
 **Disease : Malaria**
 
-| Role profile 6 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **(P)NS planning for epidemic response (outbreak response)** | &nbsp; | &nbsp; | &nbsp; |
 

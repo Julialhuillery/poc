@@ -10,7 +10,7 @@ pdf:
 ---
 **Cyclone / Hurricane / Typhoon**
 
-| Role profile 1 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 |:---------------|:-------------|:  -------------------|:------------------------------|
 | **National Society emergency response staff** | Deployment of volunteers, activation of existing NS emergency response systems, tools and programmes | Specific adaptations needed for health emergencies, exposure to response approaches, tools, needs outside of sudden-onset natural disasters | Understanding of health impacts of natural disasters and understanding of how/when/why to engage health colleagues in emergency response |
 
