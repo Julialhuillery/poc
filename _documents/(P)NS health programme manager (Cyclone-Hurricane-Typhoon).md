@@ -10,7 +10,7 @@ pdf:
 ---
 Cyclone / Hurricane / Typhoon
 
-| Role profile 4 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **(P)NS health programme manager** | &nbsp; | &nbsp; | &nbsp; |
 
