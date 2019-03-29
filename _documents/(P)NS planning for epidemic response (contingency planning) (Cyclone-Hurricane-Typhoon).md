@@ -10,7 +10,7 @@ pdf:
 ---
 **Cyclone / Hurricane / Typhoon**
 
-| Role profile 5 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **(P)NS planning for epidemic response (contingency planning)** | Prepare for effective response (PEAR) | &nbsp; | &nbsp; |
 

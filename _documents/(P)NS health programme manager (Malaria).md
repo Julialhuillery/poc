@@ -4,13 +4,13 @@ categories:
 - diseases
 - malaria
 pdf:
-  name: (P)NS health programme manager (Malaria)
-  url: (P)NS health programme manager (Malaria).pdf
+  name: "(P)NS health programme manager (Malaria)"
+  url: "(P)NS health programme manager (Malaria).pdf"
 
 ---
 **Disease : Malaria**
 
-| Role profile 4 | Competencies | Gaps in competencies | Gaps in information they need |
+| Role profile | Competencies | Gaps in competencies | Gaps in information they need |
 | :--- | :--- | :--- | :--- |
 | **(P)NS health programme manager** | &nbsp; | &nbsp; | &nbsp; |
 
