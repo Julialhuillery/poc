@@ -277,7 +277,8 @@ function smoothScroll(element, to, duration) {
 (function updateDate() {
   var date = new Date();
   var year = date.getFullYear();
-  elem('.year').innerHTML = year;
+  let yearInfo = elem('.year');
+  yearInfo ? yearInfo.innerHTML = year : false;
 })();
 
 function wrapElement(el, wrap) {
@@ -300,13 +301,21 @@ function wrapElement(el, wrap) {
     populateModal(element);
     wrapElement(modal, 'modal');
   }
-
-  console.log(tiles);
-  tiles.forEach(function(tile) {
-    tile.addEventListener('click', function(event) {
-      event.preventDefault();
-      let child = this.nextElementSibling;
-      showModal(child);
+  
+  if(tiles) {
+    tiles.forEach(function(tile) {
+      tile.addEventListener('click', function(event) {
+        event.preventDefault();
+        let child = this.nextElementSibling;
+        showModal(child);
+      });
     });
-  });
+  }
+
+  let tables = elems('table');
+  if(tables) {
+    tables.forEach(function(table){
+      wrapElement(table, 'table_responsive');
+    });
+  }
 })();
