@@ -468,3 +468,10 @@
   padding-top: 0;
   margin-bottom: 1rem;
 }
+.table{
+  &_responsive {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: scroll;
+  }
+}
