@@ -1082,6 +1082,12 @@ acronym {
   background: rgba(255, 255, 255, 0.96);
 }
 
+.overview {
+  font-size: 1.1rem;
+  padding-top: 0;
+  margin-bottom: 1rem;
+}
+
 .share {
   display: flex;
   align-items: center;
