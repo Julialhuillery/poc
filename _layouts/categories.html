@@ -1,3 +1,6 @@
 ---
 layout: collections
 ---
+{%- assign pageKind = page.title | downcase -%}
+{%- assign overview = site.data.categories[pageKind] -%}
+<p class = 'overview'>{{ overview }}</p>
